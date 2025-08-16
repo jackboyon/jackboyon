@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 💫 About Me:
 🔭 I’m currently working on java and web Development.<br>👯 I’m looking to collaborate on games and web applications.<br>🌱 I’m currently learning JavaScript, java, PHP, and MySQL.<br>⚡ Fun fact I'm a artist of 5 years.
 
@@ -19,4 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=jackboyon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
