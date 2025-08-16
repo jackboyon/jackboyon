@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on java and web Development.<br>👯 I’m looking to collaborate on games and web applications.<br>🌱 I’m currently learning JavaScript, java, PHP, and MySQL.<br>⚡ Fun fact I'm a artist of 5 years.
+🔭 I’m currently working on game and web Development.<br>👯 I’m looking to collaborate on games and web applications.<br>🌱 I’m currently learning JavaScript, java, PHP, and MySQL.<br>⚡ Fun fact I'm a artist of 5 years.
 
 
 ## 🌐 Socials:
