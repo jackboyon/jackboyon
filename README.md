@@ -50,7 +50,6 @@ I'm a developer and digital artist focused on creating games, web applications, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Statistics
 
 ## GitHub Statistics
 
