@@ -62,6 +62,6 @@ I'm a developer and digital artist focused on creating games, web applications, 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jackboyon&style=flat-square&color=blue)
+![JACKY VIEWS](https://komarev.com/ghpvc/?username=jackboyon&style=flat-square&color=blue)
 
 </div>
