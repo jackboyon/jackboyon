@@ -52,16 +52,16 @@ I'm a developer and digital artist focused on creating games, web applications, 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackboyon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jackboyon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jackboyon&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jackboyon&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackboyon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jackboyon&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=jackboyon&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=jackboyon&style=flat-square&color=blue)
 
 </div>
