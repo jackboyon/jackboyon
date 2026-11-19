@@ -16,10 +16,16 @@ I'm a developer and digital artist focused on creating games, web applications, 
 
 ## Current Projects
 
-| Project | Description |
-|:---|:---|
-| **ClearDev** | A student clearance management platform designed to streamline academic clearance processes. |
-| **Light Son** | An indie game project focused on exploration, mystery, and challenging encounters. |
+| Project | Category | Description |
+|:---|:---|:---|
+| **ClearDev** | Web Application | A student clearance management system designed to digitize clearance processing, simplify office approvals, and help students track their clearance progress. |
+| **Light Son** | Game Development | An indie exploration game centered around mystery, hidden paths, mysterious environments, and challenging encounters. |
+| **Workbench** | Web Platform | A school-oriented learning and productivity platform that brings together digital tools, collaborative workspaces, guides, and community features. |
+
+---
+
+*All projects are currently under development.*
+
 ## Tech Stack
 
 <div align="center">
